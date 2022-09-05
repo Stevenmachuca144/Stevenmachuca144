@@ -8,6 +8,63 @@
 - 💬 Ask me about ... How I started tech
 - 📫 How to reach me: ... Linkedin
 - ⚡ Fun fact: ... Im so cool
+
+Connect with me:
+SabesanSabesan | FacebookSabesan | TwitterSabesan | LinkedInSabesan | Instagram
+
+
+Languages and Tools:
+
+visual studio code
+
+intellij idea
+
+pycharm
+
+javascript
+
+react
+
+java
+
+python
+
+typescript
+
+html5
+
+css3
+
+sass
+
+json
+
+eslint
+
+Node.js
+
+MySQL
+
+latex
+
+markdown
+
+Git
+
+github
+
+terminal
+
+
+windows
+
+ubuntu
+
+macos
+
+linux
+
+
 <!--
 **Stevenmachuca144/Stevenmachuca144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
